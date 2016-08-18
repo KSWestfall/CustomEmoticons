@@ -1,48 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <emoticons>
-    <emoticon defaultKey="(cupcake)" image="cupcake.png" order="29" text="mycupcake" >
+    <emoticon defaultKey="(cupcake)" image="cupcake.png" order="29" text="mycupcake">
         <alt>:cupcake</alt>
     </emoticon>
-	<emoticon defaultKey="(lol)" image="lol.gif" order="29" text="mylol" >
+    <emoticon defaultKey="(lol)" image="lol.gif" order="30" text="mylol">
         <alt>:lol</alt>
     </emoticon>
-	    <emoticon defaultKey="(gun)" image="gun.png" order="29" text="mygun" >
+    <emoticon defaultKey="(gun)" image="gun.png" order="31" text="mygun">
         <alt>:gun</alt>
     </emoticon>
-	<emoticon defaultKey="(ken)" image="giphy.gif" order="29" text="myewwwwww" >
+    <emoticon defaultKey="(ken)" image="giphy.gif" order="32" text="myewwwwww">
         <alt>:ken</alt>
     </emoticon>
-    <emoticon defaultKey="(sail)" image="sail.gif" order="29" text="mysail" >
+    <emoticon defaultKey="(sail)" image="sail.gif" order="33" text="mysail">
         <alt>:sail</alt>
     </emoticon>
-	<emoticon defaultKey="(fotns)" image="fotns.gif" order="29" text="myfotns" >
+    <emoticon defaultKey="(fotns)" image="fotns.gif" order="34" text="myfotns">
         <alt>:fotns</alt>
     </emoticon>
-	<emoticon defaultKey="(imagination)" image="imagination.gif" order="29" text="myimagination" >
+    <emoticon defaultKey="(imagination)" image="imagination.gif" order="35" text="myimagination">
         <alt>:imagination</alt>
     </emoticon>
-	<emoticon defaultKey="(iluvu)" image="iluvu.gif" order="29" text="myiluvu" >
+    <emoticon defaultKey="(iluvu)" image="iluvu.gif" order="36" text="myiluvu">
         <alt>:iluvu</alt>
     </emoticon>
-	<emoticon defaultKey="(brb)" image="brb.jpg" order="29" text="mybrb" >
+    <emoticon defaultKey="(brb)" image="brb.jpg" order="37" text="mybrb">
         <alt>:brb</alt>
     </emoticon>
-	<emoticon defaultKey="(charizard)" image="charizard.gif" order="29" text="mycharizard" >
+    <emoticon defaultKey="(charizard)" image="charizard.gif" order="38" text="mycharizard">
         <alt>:charizard</alt>
     </emoticon>
-	<emoticon defaultKey="(starve)" image="starve.gif" order="29" text="mystarve" >
+    <emoticon defaultKey="(starve)" image="starve.gif" order="39" text="mystarve">
         <alt>:starve</alt>
     </emoticon>
-	<emoticon defaultKey="(rofl)" image="rofl.gif" order="29" text="myrofl" >
+    <emoticon defaultKey="(rofl)" image="rofl.gif" order="40" text="myrofl">
         <alt>:rofl</alt>
     </emoticon>
-	<emoticon defaultKey="(friday)" image="itsfriday.gif" order="29" text="itsfriday" >
+    <emoticon defaultKey="(friday)" image="itsfriday.gif" order="41" text="itsfriday">
         <alt>:friday</alt>
     </emoticon>
-	<emoticon defaultKey="(clever)" image="clever.gif" order="40" text="cleverAF" >
+    <emoticon defaultKey="(clever)" image="clever.gif" order="42" text="cleverAF">
         <alt>:CleverKevin</alt>
     </emoticon>
-	<emoticon defaultKey="(andysamberg)" image="andysamberg.gif" order="29" text="AndySamberg.gif" >
-		<alt>:AndySamberg.gif</alt>
-	</emoticon>
+    <emoticon defaultKey="(andysamberg)" image="andysamberg.gif" order="43" text="AndySamberg.gif">
+        <alt>:AndySamberg</alt>
+    </emoticon>
+    <emoticon defaultKey="(Saturday)" image="Saturday.jpg" order="44" text="(Saturday)" />
 </emoticons>
