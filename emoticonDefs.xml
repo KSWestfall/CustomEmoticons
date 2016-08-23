@@ -45,5 +45,7 @@
     <emoticon defaultKey="(andysamberg)" image="andysamberg.gif" order="43" text="AndySamberg.gif">
         <alt>:AndySamberg</alt>
     </emoticon>
-    <emoticon defaultKey="(Saturday)" image="Saturday.jpg" order="44" text="(Saturday)" />
+    <emoticon defaultKey="(saturday)" image="Saturday.jpg" order="44" text="(Saturday)" />
+	<emoticon defaultKey="(brunos)" image="Brunos.gif" order="32" text="Brunos.gif" > 
+</emoticon>
 </emoticons>
