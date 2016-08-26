@@ -47,6 +47,12 @@
     </emoticon>
     <emoticon defaultKey="(saturday)" image="Saturday.jpg" order="44" text="(Saturday)" />
 	<emoticon defaultKey="(brunos)" image="Brunos.gif" order="45" text="Brunos.gif" />
-	<emoticon defaultKey="(explain)" image="explain.gif" order="46" text="explain.gif" /> 
-	<emoticon defaultKey="(ninja)" image="ninja.gif" order="47" text="ninja.gif" /> 
+	<emoticon defaultKey="(explain)" image="explain.gif" order="46" text="explain.gif" />
+	<emoticon defaultKey="(ninja)" image="ninja.gif" order="47" text="ninja.gif" />
+	<emoticon defaultKey="(dontbelieve)" image="dontbelieve.gif" order="47" text="dontbelieve.gif" />
+	<emoticon defaultKey="(dealwithit)" image="dealwithit.gif" order="47" text="dealwithit.gif" />
+	<emoticon defaultKey="(terrifying)" image="terrifying.gif" order="47" text="terrifying.gif" />
+	<emoticon defaultKey="(clap)" image="clap.gif" order="47" text="clap.gif" />
+	<emoticon defaultKey="(scared)" image="scared.gif" order="47" text="scared.gif" />
+	<emoticon defaultKey="(fgone)" image="fgone.gif" order="47" text="fgone.gif" /> 
 </emoticons>
