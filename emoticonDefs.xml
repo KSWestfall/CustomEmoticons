@@ -12,11 +12,11 @@
   <emoticon defaultKey="(explain)" image="explain.gif" order="38" text="explain" />
   <emoticon defaultKey="(fgone)" image="fgone.gif" order="39" text="fgone" />
   <emoticon defaultKey="(fotns)" image="fotns.gif" order="40" text="fotns" />
-  <emoticon defaultKey="(giphy)" image="giphy.gif" order="41" text="giphy" />
-  <emoticon defaultKey="(gun)" image="gun.png" order="42" text="gun" />
-  <emoticon defaultKey="(iluvu)" image="iluvu.gif" order="43" text="iluvu" />
-  <emoticon defaultKey="(imagination)" image="imagination.gif" order="44" text="imagination" />
-  <emoticon defaultKey="(itsfriday)" image="itsfriday.gif" order="45" text="itsfriday" />
+  <emoticon defaultKey="(friday)" image="friday.gif" order="41" text="friday" />
+  <emoticon defaultKey="(giphy)" image="giphy.gif" order="42" text="giphy" />
+  <emoticon defaultKey="(gun)" image="gun.png" order="43" text="gun" />
+  <emoticon defaultKey="(iluvu)" image="iluvu.gif" order="44" text="iluvu" />
+  <emoticon defaultKey="(imagination)" image="imagination.gif" order="45" text="imagination" />
   <emoticon defaultKey="(lol)" image="lol.gif" order="46" text="lol" />
   <emoticon defaultKey="(ninja)" image="ninja.gif" order="47" text="ninja" />
   <emoticon defaultKey="(pain)" image="pain.gif" order="48" text="pain" />
