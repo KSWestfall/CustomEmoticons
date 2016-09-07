@@ -26,4 +26,5 @@
   <emoticon defaultKey="(scared)" image="scared.gif" order="52" text="scared" />
   <emoticon defaultKey="(starve)" image="starve.gif" order="53" text="starve" />
   <emoticon defaultKey="(terrifying)" image="terrifying.gif" order="54" text="terrifying" />
+  <emoticon defaultKey="(ride)" image="ride.gif" order="55" text="ride" />
 </emoticons>
