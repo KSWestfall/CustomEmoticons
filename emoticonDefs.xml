@@ -28,5 +28,5 @@
   <emoticon defaultKey="(terrifying)" image="terrifying.gif" order="54" text="terrifying" />
   <emoticon defaultKey="(ride)" image="ride.gif" order="55" text="ride" />
   <emoticon defaultKey="(burn)" image="burn.gif" order="56" text="burn" />
-
+  <emoticon defaultKey="(bears)" image="bears.jpg" order="55" text="bears" />
 </emoticons>
