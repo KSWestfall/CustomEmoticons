@@ -29,4 +29,5 @@
   <emoticon defaultKey="(ride)" image="ride.gif" order="55" text="ride" />
   <emoticon defaultKey="(burn)" image="burn.gif" order="56" text="burn" />
   <emoticon defaultKey="(dabears)" image="dabears.gif" order="57" text="dabears" />
+  <emoticon defaultKey="(works)" image="works.gif" order="58" text="works" />
 </emoticons>
