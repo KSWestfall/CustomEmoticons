@@ -13,7 +13,7 @@
   <emoticon defaultKey="(fgone)" image="fgone.gif" order="39" text="fgone" />
   <emoticon defaultKey="(fotns)" image="fotns.gif" order="40" text="fotns" />
   <emoticon defaultKey="(friday)" image="friday.gif" order="41" text="friday" />
-  <emoticon defaultKey="(giphy)" image="giphy.gif" order="42" text="giphy" />
+  <emoticon defaultKey="(ken)" image="ken.gif" order="42" text="ken" />
   <emoticon defaultKey="(gun)" image="gun.png" order="43" text="gun" />
   <emoticon defaultKey="(iluvu)" image="iluvu.gif" order="44" text="iluvu" />
   <emoticon defaultKey="(imagination)" image="imagination.gif" order="45" text="imagination" />
@@ -29,5 +29,4 @@
   <emoticon defaultKey="(ride)" image="ride.gif" order="55" text="ride" />
   <emoticon defaultKey="(burn)" image="burn.gif" order="56" text="burn" />
   <emoticon defaultKey="(dabears)" image="dabears.gif" order="57" text="dabears" />
-  
 </emoticons>
