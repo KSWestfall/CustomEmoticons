@@ -31,5 +31,8 @@
   <emoticon defaultKey="(dabears)" image="dabears.gif" order="57" text="dabears" />
   <emoticon defaultKey="(works)" image="works.gif" order="58" text="works" />
   <emoticon defaultKey="(approve)" image="approve.gif" order="59" text="approve" />
+<<<<<<< HEAD
+=======
   <emoticon defaultKey="(dance)" image="dance.gif" order="59" text="dance" />
+>>>>>>> 521e195eaa4d7feb7030342b93c2a382504e5c25
 </emoticons>
