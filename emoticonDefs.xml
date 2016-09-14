@@ -32,4 +32,5 @@
   <emoticon defaultKey="(works)" image="works.gif" order="58" text="works" />
   <emoticon defaultKey="(approve)" image="approve.gif" order="59" text="approve" />
   <emoticon defaultKey="(dance)" image="dance.gif" order="59" text="dance" />
+  <emoticon defaultKey="(boring)" image="boring.gif" order="60" text="boring" />
 </emoticons>
