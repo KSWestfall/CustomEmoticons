@@ -30,4 +30,6 @@
   <emoticon defaultKey="(burn)" image="burn.gif" order="56" text="burn" />
   <emoticon defaultKey="(dabears)" image="dabears.gif" order="57" text="dabears" />
   <emoticon defaultKey="(works)" image="works.gif" order="58" text="works" />
+  <emoticon defaultKey="(approve)" image="approve.gif" order="59" text="approve" />
+  <emoticon defaultKey="(dance)" image="dance.gif" order="59" text="dance" />
 </emoticons>
