@@ -36,4 +36,5 @@
   <emoticon defaultKey="(hunger)" image="hunger.gif" order="60" text="hunger" />
   <emoticon defaultKey="(warrior)" image="warrior.gif" order="61" text="warrior" />
   <emoticon defaultKey="(foos)" image="foos.gif" order="62" text="foos" />
+  <emoticon defaultKey="(rake)" image="rake.gif" order="63" text="rake" />
 </emoticons>
