@@ -38,4 +38,10 @@
   <emoticon defaultKey="(foos)" image="foos.gif" order="62" text="foos" />
   <emoticon defaultKey="(rake)" image="rake.gif" order="63" text="rake" />
   <emoticon defaultKey="(liar)" image="liar.gif" order="64" text="liar" />
+  <emoticon defaultKey="(iguess)" image="iguess.gif" order="65" text="iguess" />
+  <emoticon defaultKey="(crapstorm)" image="crapstorm.gif" order="66" text="crapstorm" />
+  <emoticon defaultKey="(standingO)" image="standingO.gif" order="67" text="standingO" />
+  <emoticon defaultKey="(but...)" image="but....gif" order="68" text="but..." />
+  <emoticon defaultKey="(rain)" image="rain.gif" order="69" text="rain" />
+  <emoticon defaultKey="(uhh)" image="uhh.gif" order="70" text="uhh" />
 </emoticons>
