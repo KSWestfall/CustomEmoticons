@@ -44,4 +44,5 @@
   <emoticon defaultKey="(but...)" image="but....gif" order="68" text="but..." />
   <emoticon defaultKey="(rain)" image="rain.gif" order="69" text="rain" />
   <emoticon defaultKey="(uhh)" image="uhh.gif" order="70" text="uhh" />
+  <emoticon defaultKey="(troll)" image="troll.gif" order="71" text="troll" />
 </emoticons>
