@@ -45,5 +45,6 @@
   <emoticon defaultKey="(rain)" image="rain.gif" order="69" text="rain" />
   <emoticon defaultKey="(uhh)" image="uhh.gif" order="70" text="uhh" />
   <emoticon defaultKey="(troll)" image="troll.gif" order="71" text="troll" />
-   <emoticon defaultKey="(worst)" image="worst.gif" order="71" text="worst" />
+   <emoticon defaultKey="(worst)" image="worst.gif" order="72" text="worst" />
+   <emoticon defaultKey="(pizza)" image="pizza.gif" order="73" text="pizza" />
 </emoticons>
