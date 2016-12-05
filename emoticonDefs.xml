@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <emoticons>
   <emoticon defaultKey="(andysamberg)" image="andysamberg.gif" order="29" text="andysamberg" />
+  <emoticon defaultKey="(badjoke)" image="badjoke.png" order="30" text="Bad Joke" />
   <emoticon defaultKey="(brb)" image="brb.jpg" order="30" text="brb" />
   <emoticon defaultKey="(brunos)" image="Brunos.gif" order="31" text="brunos" />
   <emoticon defaultKey="(charizard)" image="charizard.gif" order="32" text="charizard" />
