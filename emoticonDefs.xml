@@ -50,4 +50,5 @@
   <emoticon defaultKey="(worst)" image="worst.gif" order="72" text="worst" />
   <emoticon defaultKey="(pizza)" image="pizza.gif" order="73" text="pizza" />
   <emoticon defaultKey="(twitch)" image="twitch.gif" order="74" text="twitch" />
+  <emoticon defaultKey="(sad)" image="sad.gif" order="74" text="sad" />
 </emoticons>
