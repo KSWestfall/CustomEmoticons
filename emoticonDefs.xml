@@ -52,4 +52,5 @@
   <emoticon defaultKey="(twitch)" image="twitch.gif" order="74" text="twitch" />
   <emoticon defaultKey="(sad)" image="sad.gif" order="74" text="sad" />
   <emoticon defaultKey="(magic)" image="magic.gif" order="74" text="magic" />
+  <emoticon defaultKey="(seppuku)" image="seppuku.gif" order="75" text="seppuku" />
 </emoticons>
