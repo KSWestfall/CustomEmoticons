@@ -53,4 +53,7 @@
   <emoticon defaultKey="(sad)" image="sad.gif" order="74" text="sad" />
   <emoticon defaultKey="(magic)" image="magic.gif" order="74" text="magic" />
   <emoticon defaultKey="(seppuku)" image="seppuku.gif" order="75" text="seppuku" />
+  <emoticon defaultKey="(cleaning)" image="cleaning.gif" order="76" text="cleaning" />
+  <emoticon defaultKey="(iamanidiot)" image="iamanidiot.gif" order="77" text="iamanidiot" />
+  <emoticon defaultKey="(deer)" image="deer.gif" order="78" text="deer" />
 </emoticons>
