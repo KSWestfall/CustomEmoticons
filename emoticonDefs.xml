@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <emoticons>
-  <emoticon defaultKey="(andysamberg)" image="andysamberg.gif" order="29" text="andysamberg" />
+  <emoticon defaultKey="(andysamberg)" image="andysamberg.gif" order="29" text="Andy Samberg" />
   <emoticon defaultKey="(badjoke)" image="badjoke.png" order="30" text="Bad Joke" />
   <emoticon defaultKey="(brb)" image="brb.jpg" order="30" text="brb" />
-  <emoticon defaultKey="(brunos)" image="Brunos.gif" order="31" text="brunos" />
-  <emoticon defaultKey="(charizard)" image="charizard.gif" order="32" text="charizard" />
+  <emoticon defaultKey="(brunos)" image="Brunos.gif" order="31" text="Brunos" />
+  <emoticon defaultKey="(charizard)" image="charizard.gif" order="32" text="Charizard" />
   <emoticon defaultKey="(clap)" image="clap.gif" order="33" text="clap" />
   <emoticon defaultKey="(clever)" image="clever.gif" order="34" text="clever" />
   <emoticon defaultKey="(cupcake)" image="cupcake.png" order="35" text="cupcake" />
-  <emoticon defaultKey="(dealwithit)" image="dealwithit.gif" order="36" text="dealwithit" />
-  <emoticon defaultKey="(dontbelieve)" image="dontbelieve.gif" order="37" text="dontbelieve" />
+  <emoticon defaultKey="(dealwithit)" image="dealwithit.gif" order="36" text="deal with it" />
+  <emoticon defaultKey="(dontbelieve)" image="dontbelieve.gif" order="37" text="don't believe" />
   <emoticon defaultKey="(explain)" image="explain.gif" order="38" text="explain" />
-  <emoticon defaultKey="(fgone)" image="fgone.gif" order="39" text="fgone" />
+  <emoticon defaultKey="(fgone)" image="fgone.gif" order="39" text="F gone" />
   <emoticon defaultKey="(fotns)" image="fotns.gif" order="40" text="fotns" />
-  <emoticon defaultKey="(friday)" image="friday.gif" order="41" text="friday" />
-  <emoticon defaultKey="(ken)" image="ken.gif" order="42" text="ken" />
-  <emoticon defaultKey="(khan)" image="khan.gif" order="42" text="khan" />
+  <emoticon defaultKey="(friday)" image="friday.gif" order="41" text="Friday" />
+  <emoticon defaultKey="(ken)" image="ken.gif" order="42" text="Ken" />
+  <emoticon defaultKey="(khan)" image="khan.gif" order="42" text="Khan" />
   <emoticon defaultKey="(gun)" image="gun.png" order="43" text="gun" />
-  <emoticon defaultKey="(iluvu)" image="iluvu.gif" order="44" text="iluvu" />
+  <emoticon defaultKey="(iluvu)" image="iluvu.gif" order="44" text="i luv u" />
   <emoticon defaultKey="(imagination)" image="imagination.gif" order="45" text="imagination" />
   <emoticon defaultKey="(lol)" image="lol.gif" order="46" text="lol" />
   <emoticon defaultKey="(ninja)" image="ninja.gif" order="47" text="ninja" />
   <emoticon defaultKey="(pain)" image="pain.gif" order="48" text="pain" />
   <emoticon defaultKey="(rofl)" image="rofl.gif" order="49" text="rofl" />
   <emoticon defaultKey="(sail)" image="sail.gif" order="50" text="sail" />
-  <emoticon defaultKey="(saturday)" image="Saturday.jpg" order="51" text="saturday" />
+  <emoticon defaultKey="(saturday)" image="Saturday.jpg" order="51" text="Saturday" />
   <emoticon defaultKey="(scared)" image="scared.gif" order="52" text="scared" />
   <emoticon defaultKey="(starve)" image="starve.gif" order="53" text="starve" />
   <emoticon defaultKey="(terrifying)" image="terrifying.gif" order="54" text="terrifying" />
@@ -40,9 +40,9 @@
   <emoticon defaultKey="(foos)" image="foos.gif" order="62" text="foos" />
   <emoticon defaultKey="(rake)" image="rake.gif" order="63" text="rake" />
   <emoticon defaultKey="(liar)" image="liar.gif" order="64" text="liar" />
-  <emoticon defaultKey="(iguess)" image="iguess.gif" order="65" text="iguess" />
-  <emoticon defaultKey="(crapstorm)" image="crapstorm.gif" order="66" text="crapstorm" />
-  <emoticon defaultKey="(standingO)" image="standingO.gif" order="67" text="standingO" />
+  <emoticon defaultKey="(iguess)" image="iguess.gif" order="65" text="I guess" />
+  <emoticon defaultKey="(crapstorm)" image="crapstorm.gif" order="66" text="crap storm" />
+  <emoticon defaultKey="(standingO)" image="standingO.gif" order="67" text="standing O" />
   <emoticon defaultKey="(but...)" image="but....gif" order="68" text="but..." />
   <emoticon defaultKey="(rain)" image="rain.gif" order="69" text="rain" />
   <emoticon defaultKey="(uhh)" image="uhh.gif" order="70" text="uhh" />
@@ -54,9 +54,9 @@
   <emoticon defaultKey="(magic)" image="magic.gif" order="74" text="magic" />
   <emoticon defaultKey="(seppuku)" image="seppuku.gif" order="75" text="seppuku" />
   <emoticon defaultKey="(cleaning)" image="cleaning.gif" order="76" text="cleaning" />
-  <emoticon defaultKey="(iamanidiot)" image="iamanidiot.gif" order="77" text="iamanidiot" />
+  <emoticon defaultKey="(iamanidiot)" image="iamanidiot.gif" order="77" text="I am an idiot" />
   <emoticon defaultKey="(deer)" image="deer.gif" order="78" text="deer" />
   <emoticon defaultKey="(fire)" image="fire.gif" order="79" text="fire" />
   <emoticon defaultKey="(jump)" image="jump.gif" order="80" text="jump" />
-  <emoticon defaultKey="(outofhere)" image="outofhere.gif" order="81" text="outofhere" />
+  <emoticon defaultKey="(outofhere)" image="outofhere.gif" order="81" text="out of here" />
 </emoticons>
