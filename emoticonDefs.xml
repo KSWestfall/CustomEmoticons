@@ -56,4 +56,7 @@
   <emoticon defaultKey="(cleaning)" image="cleaning.gif" order="76" text="cleaning" />
   <emoticon defaultKey="(iamanidiot)" image="iamanidiot.gif" order="77" text="iamanidiot" />
   <emoticon defaultKey="(deer)" image="deer.gif" order="78" text="deer" />
+  <emoticon defaultKey="(fire)" image="fire.gif" order="79" text="fire" />
+  <emoticon defaultKey="(jump)" image="jump.gif" order="80" text="jump" />
+  <emoticon defaultKey="(outofhere)" image="outofhere.gif" order="81" text="outofhere" />
 </emoticons>
