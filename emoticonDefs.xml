@@ -59,4 +59,5 @@
   <emoticon defaultKey="(fire)" image="fire.gif" order="79" text="fire" />
   <emoticon defaultKey="(jump)" image="jump.gif" order="80" text="jump" />
   <emoticon defaultKey="(outofhere)" image="outofhere.gif" order="81" text="out of here" />
+  <emoticon defaultKey="(waddle)" image="waddle.gif" order="82" text="so he waddled away... waddle waddle" />
 </emoticons>
