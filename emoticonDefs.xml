@@ -64,4 +64,5 @@
   <emoticon defaultKey="(unpossible)" image="unpossible.gif" order="84" text="Me fail English? That's unpossible." />
   <emoticon defaultKey="(barf)" image="barf.jpg" order="85" text="Barf" />
   <emoticon defaultKey="(squirrel)" image="squirrel.gif" order="86" text="Squirrel" />
+  <emoticon defaultKey="(crazy)" image="crazy.gif" order="87" text="Crazy" />
 </emoticons>
