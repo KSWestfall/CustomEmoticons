@@ -65,4 +65,8 @@
   <emoticon defaultKey="(barf)" image="barf.jpg" order="85" text="Barf" />
   <emoticon defaultKey="(squirrel)" image="squirrel.gif" order="86" text="Squirrel" />
   <emoticon defaultKey="(crazy)" image="crazy.gif" order="87" text="Crazy" />
+  <emoticon defaultKey="(coolcats)" image="coolcats.gif" order="88" text="coolcats" />
+  <emoticon defaultKey="(eagle)" image="eagle.gif" order="89" text="eagle" />
+  <emoticon defaultKey="(imbusy)" image="imbusy.gif" order="90" text="I'm busy" />
+  <emoticon defaultKey="(sticksandstones)" image="sticksandstones.gif" order="91" text="sticks and stones" />
 </emoticons>
