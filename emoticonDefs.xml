@@ -72,4 +72,5 @@
   <emoticon defaultKey="(badges)" image="badges.gif" order="92" text="Badges!" />
   <emoticon defaultKey="(hulk)" image="hulk.jpg" order="93" text="Hulk" />
   <emoticon defaultKey="(flawless)" image="flawless.gif" order="94" text="flawless" />
+  <emoticon defaultKey="(rollout)" image="rollout.gif" order="95" text="rollout" />
 </emoticons>
