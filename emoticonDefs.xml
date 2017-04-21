@@ -7,7 +7,7 @@
   <emoticon defaultKey="(charizard)" image="charizard.gif" order="32" text="Charizard" />
   <emoticon defaultKey="(clap)" image="clap.gif" order="33" text="clap" />
   <emoticon defaultKey="(clever)" image="clever.gif" order="34" text="clever" />
-  <emoticon defaultKey="(cupcake)" image="cupcake.png" order="35" text="cupcake" />
+  <emoticon defaultKey="(cupcake)" image="cupcake.gif" order="35" text="cupcake" />
   <emoticon defaultKey="(dealwithit)" image="dealwithit.gif" order="36" text="deal with it" />
   <emoticon defaultKey="(dontbelieve)" image="dontbelieve.gif" order="37" text="don't believe" />
   <emoticon defaultKey="(explain)" image="explain.gif" order="38" text="explain" />
@@ -74,4 +74,5 @@
   <emoticon defaultKey="(flawless)" image="flawless.gif" order="94" text="flawless" />
   <emoticon defaultKey="(rollout)" image="rollout.gif" order="95" text="rollout" />
   <emoticon defaultKey="(ouch)" image="ouch.gif" order="96" text="ouch" />
+  <emoticon defaultKey="(idontknow)" image="idontknow.gif" order="97" text="idontknow" />
 </emoticons>
