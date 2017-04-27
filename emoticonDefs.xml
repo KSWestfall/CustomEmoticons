@@ -76,4 +76,5 @@
   <emoticon defaultKey="(ouch)" image="ouch.gif" order="96" text="ouch" />
   <emoticon defaultKey="(idontknow)" image="idontknow.gif" order="97" text="idontknow" />
   <emoticon defaultKey="(coolio)" image="coolio.jpg" order="98" text="Coolio" />
+  <emoticon defaultKey="(gross)" image="gross.gif" order="99" text="gross" />
 </emoticons>
