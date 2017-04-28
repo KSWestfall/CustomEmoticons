@@ -78,4 +78,5 @@
   <emoticon defaultKey="(coolio)" image="coolio.jpg" order="98" text="Coolio" />
   <emoticon defaultKey="(gross)" image="gross.gif" order="99" text="gross" />
   <emoticon defaultKey="(donethis)" image="donethis.gif" order="99" text="donethis" />
+  <emoticon defaultKey="(gjiff)" image="gjiff.gif" order="100" text="gjiff" />
 </emoticons>
