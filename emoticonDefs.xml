@@ -74,10 +74,10 @@
   <emoticon defaultKey="(flawless)" image="flawless.gif" order="94" text="flawless" />
   <emoticon defaultKey="(rollout)" image="rollout.gif" order="95" text="rollout" />
   <emoticon defaultKey="(ouch)" image="ouch.gif" order="96" text="ouch" />
-  <emoticon defaultKey="(idontknow)" image="idontknow.gif" order="97" text="idontknow" />
+  <emoticon defaultKey="(idontknow)" image="idontknow.gif" order="97" text="I dont know" />
   <emoticon defaultKey="(coolio)" image="coolio.jpg" order="98" text="Coolio" />
   <emoticon defaultKey="(gross)" image="gross.gif" order="99" text="gross" />
-  <emoticon defaultKey="(donethis)" image="donethis.gif" order="99" text="donethis" />
-  <emoticon defaultKey="(gjiff)" image="gjiff.gif" order="100" text="gjiff" />
-  <emoticon defaultKey="(tome)" image="tome.gif" order="100" text="tome" />
+  <emoticon defaultKey="(donethis)" image="donethis.gif" order="100" text="done this" />
+  <emoticon defaultKey="(gjiff)" image="gjiff.gif" order="101" text="gjiff" />
+  <emoticon defaultKey="(tome)" image="tome.gif" order="102" text="to me" />
 </emoticons>
