@@ -81,4 +81,5 @@
   <emoticon defaultKey="(gjiff)" image="gjiff.gif" order="101" text="gjiff" />
   <emoticon defaultKey="(tome)" image="tome.gif" order="102" text="to me" />
   <emoticon defaultKey="(bent-my-wookie)" image="BentWookie.gif" order="103" text="Bent Wookie" />
+  <emoticon defaultKey="(ahha)" image="ahha.gif" order="103" text="Ahha" />
 </emoticons>
