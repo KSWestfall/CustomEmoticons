@@ -84,4 +84,5 @@
   <emoticon defaultKey="(ahha)" image="ahha.gif" order="104" text="Ahha" />
   <emoticon defaultKey="(illtellyou)" image="illtellyou.gif" order="105" text="illtellyou" />
   <emoticon defaultKey="(evil)" image="evil.gif" order="106" text="Evil" />
+  <emoticon defaultKey="(triggered)" image="triggered.gif" order="107" text="triggered" />
 </emoticons>
