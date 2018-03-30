@@ -87,4 +87,5 @@
   <emoticon defaultKey="(triggered)" image="triggered.gif" order="107" text="triggered" />
   <emoticon defaultKey="(lit)" image="lit.png" order="108" text="lit" />
   <emoticon defaultKey="(scream)" image="scream.png" order="109" text="SCREAM" />
+  <emoticon defaultKey="(shiftyeyes)" image="shiftyeyes.gif" order="110" text="shiftyeyes" />
 </emoticons>
