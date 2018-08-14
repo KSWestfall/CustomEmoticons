@@ -89,4 +89,5 @@
   <emoticon defaultKey="(scream)" image="scream.png" order="109" text="SCREAM" />
   <emoticon defaultKey="(shiftyeyes)" image="shiftyeyes.gif" order="110" text="shiftyeyes" />
   <emoticon defaultKey="(goteem)" image="goteem.gif" order="111" text="goteem" />
+  <emoticon defaultKey="(where)" image="where.jpg" order="112" text="where" />
 </emoticons>
